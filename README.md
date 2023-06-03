@@ -1,16 +1,14 @@
-# whatsapp_ui_design
+Building Building UI and understanding deep concepts and Navigation drawer
 
-A new Flutter project.
 
-## Getting Started
+In this project we worked on: 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Creating Dart classes
+App Bar widget
+Drawer
+Drawer header
+Navigation
+Side Menu/ Drawer or Navigation drawer
+Code refactoring
+Navigation, Routing and navigation or moving between screen
+Building small navigation drawer app
